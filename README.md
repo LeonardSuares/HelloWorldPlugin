@@ -1,10 +1,10 @@
 # HelloWorldPlugin
 
-This project is a simple "Hello World" plugin created in C#.
+This project is about a "Hello World" plugin written in C#.
 
 ## Overview
 
-The `HelloWorldPlugin` project demonstrates the basics of creating a plugin with an action. The action simply prints "Hello World" to the console.
+The `HelloWorldPlugin` project demonstrates the basics of creating a plugin with an action. The action prints "Hello World" to the console.
 
 ## Project Structure
 
